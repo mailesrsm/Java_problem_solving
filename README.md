@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/mailesrsm/Java_problem_solving/tree/master/0035-search-insert-position) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mailesrsm/Java_problem_solving/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Hash Table
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/mailesrsm/Java_problem_solving/tree/master/0035-search-insert-position) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mailesrsm/Java_problem_solving/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
