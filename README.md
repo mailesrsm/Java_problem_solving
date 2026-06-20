@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mailesrsm/Java_problem_solving/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/mailesrsm/Java_problem_solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/mailesrsm/Java_problem_solving/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/mailesrsm/Java_problem_solving/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/mailesrsm/Java_problem_solving/tree/master/0075-sort-colors) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mailesrsm/Java_problem_solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/mailesrsm/Java_problem_solving/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/mailesrsm/Java_problem_solving/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mailesrsm/Java_problem_solving/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/mailesrsm/Java_problem_solving/tree/master/1732-find-the-highest-altitude) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mailesrsm/Java_problem_solving/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
