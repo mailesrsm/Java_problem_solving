@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/mailesrsm/Java_problem_solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mailesrsm/Java_problem_solving/tree/master/0088-merge-sorted-array) |
 | [0704-binary-search](https://github.com/mailesrsm/Java_problem_solving/tree/master/0704-binary-search) |
+| [0896-monotonic-array](https://github.com/mailesrsm/Java_problem_solving/tree/master/0896-monotonic-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mailesrsm/Java_problem_solving/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/mailesrsm/Java_problem_solving/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1732-find-the-highest-altitude](https://github.com/mailesrsm/Java_problem_solving/tree/master/1732-find-the-highest-altitude) |
