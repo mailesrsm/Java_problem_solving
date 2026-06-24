@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/mailesrsm/Java_problem_solving/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/mailesrsm/Java_problem_solving/tree/master/0258-add-digits) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/mailesrsm/Java_problem_solving/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/mailesrsm/Java_problem_solving/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/mailesrsm/Java_problem_solving/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1732-find-the-highest-altitude](https://github.com/mailesrsm/Java_problem_solving/tree/master/1732-find-the-highest-altitude) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/mailesrsm/Java_problem_solving/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
