@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/mailesrsm/Java_problem_solving/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/mailesrsm/Java_problem_solving/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/mailesrsm/Java_problem_solving/tree/master/0682-baseball-game) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/mailesrsm/Java_problem_solving/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 ## Number Theory
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/mailesrsm/Java_problem_solving/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/mailesrsm/Java_problem_solving/tree/master/0704-binary-search) |
 | [0896-monotonic-array](https://github.com/mailesrsm/Java_problem_solving/tree/master/0896-monotonic-array) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/mailesrsm/Java_problem_solving/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mailesrsm/Java_problem_solving/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/mailesrsm/Java_problem_solving/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1732-find-the-highest-altitude](https://github.com/mailesrsm/Java_problem_solving/tree/master/1732-find-the-highest-altitude) |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mailesrsm/Java_problem_solving/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/mailesrsm/Java_problem_solving/tree/master/0389-find-the-difference) |
 | [1189-maximum-number-of-balloons](https://github.com/mailesrsm/Java_problem_solving/tree/master/1189-maximum-number-of-balloons) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/mailesrsm/Java_problem_solving/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mailesrsm/Java_problem_solving/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Two Pointers
 |  |
@@ -102,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/mailesrsm/Java_problem_solving/tree/master/0682-baseball-game) |
+## Matrix
+|  |
+| ------- |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/mailesrsm/Java_problem_solving/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 <!---LeetCode Topics End-->
