@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/mailesrsm/Java_problem_solving/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/mailesrsm/Java_problem_solving/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/mailesrsm/Java_problem_solving/tree/master/0258-add-digits) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/mailesrsm/Java_problem_solving/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/mailesrsm/Java_problem_solving/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mailesrsm/Java_problem_solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/mailesrsm/Java_problem_solving/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/mailesrsm/Java_problem_solving/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/mailesrsm/Java_problem_solving/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mailesrsm/Java_problem_solving/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
