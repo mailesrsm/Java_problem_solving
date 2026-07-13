@@ -141,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mailesrsm/Java_problem_solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/mailesrsm/Java_problem_solving/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
