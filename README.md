@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/mailesrsm/Java_problem_solving/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/mailesrsm/Java_problem_solving/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/mailesrsm/Java_problem_solving/tree/master/1732-find-the-highest-altitude) |
+| [1748-sum-of-unique-elements](https://github.com/mailesrsm/Java_problem_solving/tree/master/1748-sum-of-unique-elements) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/mailesrsm/Java_problem_solving/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mailesrsm/Java_problem_solving/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/mailesrsm/Java_problem_solving/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/mailesrsm/Java_problem_solving/tree/master/1189-maximum-number-of-balloons) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/mailesrsm/Java_problem_solving/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mailesrsm/Java_problem_solving/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1748-sum-of-unique-elements](https://github.com/mailesrsm/Java_problem_solving/tree/master/1748-sum-of-unique-elements) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/mailesrsm/Java_problem_solving/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/mailesrsm/Java_problem_solving/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Two Pointers
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/mailesrsm/Java_problem_solving/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/mailesrsm/Java_problem_solving/tree/master/1189-maximum-number-of-balloons) |
+| [1748-sum-of-unique-elements](https://github.com/mailesrsm/Java_problem_solving/tree/master/1748-sum-of-unique-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
