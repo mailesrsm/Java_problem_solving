@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/mailesrsm/Java_problem_solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mailesrsm/Java_problem_solving/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mailesrsm/Java_problem_solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0349-intersection-of-two-arrays](https://github.com/mailesrsm/Java_problem_solving/tree/master/0349-intersection-of-two-arrays) |
 | [0682-baseball-game](https://github.com/mailesrsm/Java_problem_solving/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/mailesrsm/Java_problem_solving/tree/master/0704-binary-search) |
 | [0896-monotonic-array](https://github.com/mailesrsm/Java_problem_solving/tree/master/0896-monotonic-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mailesrsm/Java_problem_solving/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/mailesrsm/Java_problem_solving/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/mailesrsm/Java_problem_solving/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/mailesrsm/Java_problem_solving/tree/master/0389-find-the-difference) |
 | [1189-maximum-number-of-balloons](https://github.com/mailesrsm/Java_problem_solving/tree/master/1189-maximum-number-of-balloons) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/mailesrsm/Java_problem_solving/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mailesrsm/Java_problem_solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/mailesrsm/Java_problem_solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mailesrsm/Java_problem_solving/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/mailesrsm/Java_problem_solving/tree/master/0349-intersection-of-two-arrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mailesrsm/Java_problem_solving/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1768-merge-strings-alternately](https://github.com/mailesrsm/Java_problem_solving/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/mailesrsm/Java_problem_solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/mailesrsm/Java_problem_solving/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/mailesrsm/Java_problem_solving/tree/master/0069-sqrtx) |
+| [0349-intersection-of-two-arrays](https://github.com/mailesrsm/Java_problem_solving/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/mailesrsm/Java_problem_solving/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mailesrsm/Java_problem_solving/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
@@ -76,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/mailesrsm/Java_problem_solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mailesrsm/Java_problem_solving/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/mailesrsm/Java_problem_solving/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/mailesrsm/Java_problem_solving/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/mailesrsm/Java_problem_solving/tree/master/0389-find-the-difference) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mailesrsm/Java_problem_solving/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/mailesrsm/Java_problem_solving/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
