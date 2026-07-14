@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/mailesrsm/Java_problem_solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mailesrsm/Java_problem_solving/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mailesrsm/Java_problem_solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/mailesrsm/Java_problem_solving/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/mailesrsm/Java_problem_solving/tree/master/0349-intersection-of-two-arrays) |
 | [0682-baseball-game](https://github.com/mailesrsm/Java_problem_solving/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/mailesrsm/Java_problem_solving/tree/master/0704-binary-search) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mailesrsm/Java_problem_solving/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/mailesrsm/Java_problem_solving/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/mailesrsm/Java_problem_solving/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/mailesrsm/Java_problem_solving/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/mailesrsm/Java_problem_solving/tree/master/0389-find-the-difference) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/mailesrsm/Java_problem_solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mailesrsm/Java_problem_solving/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/mailesrsm/Java_problem_solving/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/mailesrsm/Java_problem_solving/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/mailesrsm/Java_problem_solving/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/mailesrsm/Java_problem_solving/tree/master/0389-find-the-difference) |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mailesrsm/Java_problem_solving/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/mailesrsm/Java_problem_solving/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -119,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/mailesrsm/Java_problem_solving/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/mailesrsm/Java_problem_solving/tree/master/1189-maximum-number-of-balloons) |
 ## Bit Manipulation
 |  |
