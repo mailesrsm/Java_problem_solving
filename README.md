@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/mailesrsm/Java_problem_solving/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/mailesrsm/Java_problem_solving/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3099-harshad-number](https://github.com/mailesrsm/Java_problem_solving/tree/master/3099-harshad-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/mailesrsm/Java_problem_solving/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Simulation
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/mailesrsm/Java_problem_solving/tree/master/0258-add-digits) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/mailesrsm/Java_problem_solving/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
 |  |
 | ------- |
