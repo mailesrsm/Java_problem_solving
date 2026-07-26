@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/mailesrsm/Java_problem_solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mailesrsm/Java_problem_solving/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mailesrsm/Java_problem_solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/mailesrsm/Java_problem_solving/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/mailesrsm/Java_problem_solving/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/mailesrsm/Java_problem_solving/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/mailesrsm/Java_problem_solving/tree/master/0561-array-partition) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/mailesrsm/Java_problem_solving/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/mailesrsm/Java_problem_solving/tree/master/0389-find-the-difference) |
 ## Stack
 |  |
