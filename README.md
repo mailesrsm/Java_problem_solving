@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/mailesrsm/Java_problem_solving/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/mailesrsm/Java_problem_solving/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/mailesrsm/Java_problem_solving/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/mailesrsm/Java_problem_solving/tree/master/0268-missing-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/mailesrsm/Java_problem_solving/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/mailesrsm/Java_problem_solving/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/mailesrsm/Java_problem_solving/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mailesrsm/Java_problem_solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/mailesrsm/Java_problem_solving/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/mailesrsm/Java_problem_solving/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/mailesrsm/Java_problem_solving/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mailesrsm/Java_problem_solving/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/mailesrsm/Java_problem_solving/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/mailesrsm/Java_problem_solving/tree/master/0682-baseball-game) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mailesrsm/Java_problem_solving/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/mailesrsm/Java_problem_solving/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/mailesrsm/Java_problem_solving/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/mailesrsm/Java_problem_solving/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mailesrsm/Java_problem_solving/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/mailesrsm/Java_problem_solving/tree/master/0389-find-the-difference) |
 | [1189-maximum-number-of-balloons](https://github.com/mailesrsm/Java_problem_solving/tree/master/1189-maximum-number-of-balloons) |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/mailesrsm/Java_problem_solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/mailesrsm/Java_problem_solving/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/mailesrsm/Java_problem_solving/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/mailesrsm/Java_problem_solving/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mailesrsm/Java_problem_solving/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/mailesrsm/Java_problem_solving/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mailesrsm/Java_problem_solving/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -98,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/mailesrsm/Java_problem_solving/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/mailesrsm/Java_problem_solving/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/mailesrsm/Java_problem_solving/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/mailesrsm/Java_problem_solving/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mailesrsm/Java_problem_solving/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/mailesrsm/Java_problem_solving/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/mailesrsm/Java_problem_solving/tree/master/0561-array-partition) |
@@ -147,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/mailesrsm/Java_problem_solving/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/mailesrsm/Java_problem_solving/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/mailesrsm/Java_problem_solving/tree/master/0389-find-the-difference) |
 ## Stack
 |  |
