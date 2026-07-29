@@ -1,0 +1,16 @@
+class Solution {
+    public int hammingWeight(int n) {
+        StringBuilder s=new StringBuilder();
+        int count=0;
+        while(n>0){
+            int rem=n%2;
+            s.append(rem);
+            n=n/2;
+        }
+        for(int i=0;i<s.length();i++){
+            if(s.charAt(i)=='1'){
+                count++;
+            }
+        }return count;
+    }
+}
