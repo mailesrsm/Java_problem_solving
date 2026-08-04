@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mailesrsm/Java_problem_solving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mailesrsm/Java_problem_solving/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mailesrsm/Java_problem_solving/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/mailesrsm/Java_problem_solving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mailesrsm/Java_problem_solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/mailesrsm/Java_problem_solving/tree/master/0389-find-the-difference) |
 | [1189-maximum-number-of-balloons](https://github.com/mailesrsm/Java_problem_solving/tree/master/1189-maximum-number-of-balloons) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/mailesrsm/Java_problem_solving/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/mailesrsm/Java_problem_solving/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/mailesrsm/Java_problem_solving/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/mailesrsm/Java_problem_solving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mailesrsm/Java_problem_solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/mailesrsm/Java_problem_solving/tree/master/0389-find-the-difference) |
 | [0459-repeated-substring-pattern](https://github.com/mailesrsm/Java_problem_solving/tree/master/0459-repeated-substring-pattern) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mailesrsm/Java_problem_solving/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/mailesrsm/Java_problem_solving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mailesrsm/Java_problem_solving/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/mailesrsm/Java_problem_solving/tree/master/1189-maximum-number-of-balloons) |
 | [1748-sum-of-unique-elements](https://github.com/mailesrsm/Java_problem_solving/tree/master/1748-sum-of-unique-elements) |
