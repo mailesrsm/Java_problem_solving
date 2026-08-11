@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mailesrsm/Java_problem_solving/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/mailesrsm/Java_problem_solving/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/mailesrsm/Java_problem_solving/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3024-type-of-triangle](https://github.com/mailesrsm/Java_problem_solving/tree/master/3024-type-of-triangle) |
 | [3099-harshad-number](https://github.com/mailesrsm/Java_problem_solving/tree/master/3099-harshad-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/mailesrsm/Java_problem_solving/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mailesrsm/Java_problem_solving/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mailesrsm/Java_problem_solving/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/mailesrsm/Java_problem_solving/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/mailesrsm/Java_problem_solving/tree/master/2974-minimum-number-game) |
+| [3024-type-of-triangle](https://github.com/mailesrsm/Java_problem_solving/tree/master/3024-type-of-triangle) |
 | [3731-find-missing-elements](https://github.com/mailesrsm/Java_problem_solving/tree/master/3731-find-missing-elements) |
 | [3925-concatenate-array-with-reverse](https://github.com/mailesrsm/Java_problem_solving/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mailesrsm/Java_problem_solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/mailesrsm/Java_problem_solving/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2974-minimum-number-game](https://github.com/mailesrsm/Java_problem_solving/tree/master/2974-minimum-number-game) |
+| [3024-type-of-triangle](https://github.com/mailesrsm/Java_problem_solving/tree/master/3024-type-of-triangle) |
 | [3536-maximum-product-of-two-digits](https://github.com/mailesrsm/Java_problem_solving/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/mailesrsm/Java_problem_solving/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
@@ -242,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/mailesrsm/Java_problem_solving/tree/master/0387-first-unique-character-in-a-string) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/mailesrsm/Java_problem_solving/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
