@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/mailesrsm/Java_problem_solving/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/mailesrsm/Java_problem_solving/tree/master/3024-type-of-triangle) |
 | [3099-harshad-number](https://github.com/mailesrsm/Java_problem_solving/tree/master/3099-harshad-number) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/mailesrsm/Java_problem_solving/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3536-maximum-product-of-two-digits](https://github.com/mailesrsm/Java_problem_solving/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mailesrsm/Java_problem_solving/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Simulation
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/mailesrsm/Java_problem_solving/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/mailesrsm/Java_problem_solving/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/mailesrsm/Java_problem_solving/tree/master/3024-type-of-triangle) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/mailesrsm/Java_problem_solving/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3731-find-missing-elements](https://github.com/mailesrsm/Java_problem_solving/tree/master/3731-find-missing-elements) |
 | [3925-concatenate-array-with-reverse](https://github.com/mailesrsm/Java_problem_solving/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
