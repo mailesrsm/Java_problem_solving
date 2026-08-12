@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/mailesrsm/Java_problem_solving/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/mailesrsm/Java_problem_solving/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3731-find-missing-elements](https://github.com/mailesrsm/Java_problem_solving/tree/master/3731-find-missing-elements) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/mailesrsm/Java_problem_solving/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/mailesrsm/Java_problem_solving/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/mailesrsm/Java_problem_solving/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3136-valid-word](https://github.com/mailesrsm/Java_problem_solving/tree/master/3136-valid-word) |
 | [3174-clear-digits](https://github.com/mailesrsm/Java_problem_solving/tree/master/3174-clear-digits) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/mailesrsm/Java_problem_solving/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String Matching
 |  |
 | ------- |
