@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/mailesrsm/Java_problem_solving/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/mailesrsm/Java_problem_solving/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2942-find-words-containing-character](https://github.com/mailesrsm/Java_problem_solving/tree/master/2942-find-words-containing-character) |
+| [3110-score-of-a-string](https://github.com/mailesrsm/Java_problem_solving/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/mailesrsm/Java_problem_solving/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3136-valid-word](https://github.com/mailesrsm/Java_problem_solving/tree/master/3136-valid-word) |
 | [3174-clear-digits](https://github.com/mailesrsm/Java_problem_solving/tree/master/3174-clear-digits) |
