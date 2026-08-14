@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/mailesrsm/Java_problem_solving/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/mailesrsm/Java_problem_solving/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/mailesrsm/Java_problem_solving/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3467-transform-array-by-parity](https://github.com/mailesrsm/Java_problem_solving/tree/master/3467-transform-array-by-parity) |
 | [3668-restore-finishing-order](https://github.com/mailesrsm/Java_problem_solving/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/mailesrsm/Java_problem_solving/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/mailesrsm/Java_problem_solving/tree/master/3731-find-missing-elements) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/mailesrsm/Java_problem_solving/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2974-minimum-number-game](https://github.com/mailesrsm/Java_problem_solving/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/mailesrsm/Java_problem_solving/tree/master/3024-type-of-triangle) |
+| [3467-transform-array-by-parity](https://github.com/mailesrsm/Java_problem_solving/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/mailesrsm/Java_problem_solving/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/mailesrsm/Java_problem_solving/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/mailesrsm/Java_problem_solving/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/mailesrsm/Java_problem_solving/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/mailesrsm/Java_problem_solving/tree/master/1748-sum-of-unique-elements) |
+| [3467-transform-array-by-parity](https://github.com/mailesrsm/Java_problem_solving/tree/master/3467-transform-array-by-parity) |
 ## Bit Manipulation
 |  |
 | ------- |
