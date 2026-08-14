@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/mailesrsm/Java_problem_solving/tree/master/1920-build-array-from-permutation) |
 | [2974-minimum-number-game](https://github.com/mailesrsm/Java_problem_solving/tree/master/2974-minimum-number-game) |
 | [3174-clear-digits](https://github.com/mailesrsm/Java_problem_solving/tree/master/3174-clear-digits) |
+| [3701-compute-alternating-sum](https://github.com/mailesrsm/Java_problem_solving/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/mailesrsm/Java_problem_solving/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/mailesrsm/Java_problem_solving/tree/master/3925-concatenate-array-with-reverse) |
 ## Number Theory
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/mailesrsm/Java_problem_solving/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/mailesrsm/Java_problem_solving/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3668-restore-finishing-order](https://github.com/mailesrsm/Java_problem_solving/tree/master/3668-restore-finishing-order) |
+| [3701-compute-alternating-sum](https://github.com/mailesrsm/Java_problem_solving/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/mailesrsm/Java_problem_solving/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/mailesrsm/Java_problem_solving/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/mailesrsm/Java_problem_solving/tree/master/3925-concatenate-array-with-reverse) |
