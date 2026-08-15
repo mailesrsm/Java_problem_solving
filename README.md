@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3099-harshad-number](https://github.com/mailesrsm/Java_problem_solving/tree/master/3099-harshad-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mailesrsm/Java_problem_solving/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/mailesrsm/Java_problem_solving/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/mailesrsm/Java_problem_solving/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3536-maximum-product-of-two-digits](https://github.com/mailesrsm/Java_problem_solving/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mailesrsm/Java_problem_solving/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/mailesrsm/Java_problem_solving/tree/master/3783-mirror-distance-of-an-integer) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/mailesrsm/Java_problem_solving/tree/master/3024-type-of-triangle) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mailesrsm/Java_problem_solving/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/mailesrsm/Java_problem_solving/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/mailesrsm/Java_problem_solving/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3467-transform-array-by-parity](https://github.com/mailesrsm/Java_problem_solving/tree/master/3467-transform-array-by-parity) |
 | [3668-restore-finishing-order](https://github.com/mailesrsm/Java_problem_solving/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/mailesrsm/Java_problem_solving/tree/master/3701-compute-alternating-sum) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/mailesrsm/Java_problem_solving/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mailesrsm/Java_problem_solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/mailesrsm/Java_problem_solving/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/mailesrsm/Java_problem_solving/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/mailesrsm/Java_problem_solving/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/mailesrsm/Java_problem_solving/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/mailesrsm/Java_problem_solving/tree/master/3760-maximum-substrings-with-distinct-start) |
