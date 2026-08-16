@@ -292,4 +292,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mailesrsm/Java_problem_solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/mailesrsm/Java_problem_solving/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/mailesrsm/Java_problem_solving/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
