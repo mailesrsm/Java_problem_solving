@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3099-harshad-number](https://github.com/mailesrsm/Java_problem_solving/tree/master/3099-harshad-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mailesrsm/Java_problem_solving/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/mailesrsm/Java_problem_solving/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3280-convert-date-to-binary](https://github.com/mailesrsm/Java_problem_solving/tree/master/3280-convert-date-to-binary) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/mailesrsm/Java_problem_solving/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3516-find-closest-person](https://github.com/mailesrsm/Java_problem_solving/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/mailesrsm/Java_problem_solving/tree/master/3536-maximum-product-of-two-digits) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/mailesrsm/Java_problem_solving/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3136-valid-word](https://github.com/mailesrsm/Java_problem_solving/tree/master/3136-valid-word) |
 | [3174-clear-digits](https://github.com/mailesrsm/Java_problem_solving/tree/master/3174-clear-digits) |
+| [3280-convert-date-to-binary](https://github.com/mailesrsm/Java_problem_solving/tree/master/3280-convert-date-to-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/mailesrsm/Java_problem_solving/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/mailesrsm/Java_problem_solving/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3838-weighted-word-mapping](https://github.com/mailesrsm/Java_problem_solving/tree/master/3838-weighted-word-mapping) |
