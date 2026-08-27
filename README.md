@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/mailesrsm/Java_problem_solving/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/mailesrsm/Java_problem_solving/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/mailesrsm/Java_problem_solving/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/mailesrsm/Java_problem_solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/mailesrsm/Java_problem_solving/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mailesrsm/Java_problem_solving/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/mailesrsm/Java_problem_solving/tree/master/1486-xor-operation-in-an-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mailesrsm/Java_problem_solving/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mailesrsm/Java_problem_solving/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/mailesrsm/Java_problem_solving/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/mailesrsm/Java_problem_solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/mailesrsm/Java_problem_solving/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/mailesrsm/Java_problem_solving/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/mailesrsm/Java_problem_solving/tree/master/0867-transpose-matrix) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/mailesrsm/Java_problem_solving/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/mailesrsm/Java_problem_solving/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/mailesrsm/Java_problem_solving/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/mailesrsm/Java_problem_solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/mailesrsm/Java_problem_solving/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mailesrsm/Java_problem_solving/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mailesrsm/Java_problem_solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
