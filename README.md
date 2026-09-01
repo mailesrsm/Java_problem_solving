@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/mailesrsm/Java_problem_solving/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/mailesrsm/Java_problem_solving/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/mailesrsm/Java_problem_solving/tree/master/1512-number-of-good-pairs) |
+| [1528-shuffle-string](https://github.com/mailesrsm/Java_problem_solving/tree/master/1528-shuffle-string) |
 | [1550-three-consecutive-odds](https://github.com/mailesrsm/Java_problem_solving/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/mailesrsm/Java_problem_solving/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/mailesrsm/Java_problem_solving/tree/master/1672-richest-customer-wealth) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/mailesrsm/Java_problem_solving/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/mailesrsm/Java_problem_solving/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/mailesrsm/Java_problem_solving/tree/master/1189-maximum-number-of-balloons) |
+| [1528-shuffle-string](https://github.com/mailesrsm/Java_problem_solving/tree/master/1528-shuffle-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mailesrsm/Java_problem_solving/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1768-merge-strings-alternately](https://github.com/mailesrsm/Java_problem_solving/tree/master/1768-merge-strings-alternately) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/mailesrsm/Java_problem_solving/tree/master/1812-determine-color-of-a-chessboard-square) |
