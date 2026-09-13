@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/mailesrsm/Java_problem_solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/mailesrsm/Java_problem_solving/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/mailesrsm/Java_problem_solving/tree/master/0704-binary-search) |
+| [0835-image-overlap](https://github.com/mailesrsm/Java_problem_solving/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/mailesrsm/Java_problem_solving/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/mailesrsm/Java_problem_solving/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/mailesrsm/Java_problem_solving/tree/master/0977-squares-of-a-sorted-array) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/mailesrsm/Java_problem_solving/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/mailesrsm/Java_problem_solving/tree/master/0867-transpose-matrix) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/mailesrsm/Java_problem_solving/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1572-matrix-diagonal-sum](https://github.com/mailesrsm/Java_problem_solving/tree/master/1572-matrix-diagonal-sum) |
