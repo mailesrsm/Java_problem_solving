@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mailesrsm/Java_problem_solving/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mailesrsm/Java_problem_solving/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mailesrsm/Java_problem_solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mailesrsm/Java_problem_solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/mailesrsm/Java_problem_solving/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/mailesrsm/Java_problem_solving/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/mailesrsm/Java_problem_solving/tree/master/1512-number-of-good-pairs) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/mailesrsm/Java_problem_solving/tree/master/1207-unique-number-of-occurrences) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/mailesrsm/Java_problem_solving/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mailesrsm/Java_problem_solving/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mailesrsm/Java_problem_solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/mailesrsm/Java_problem_solving/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mailesrsm/Java_problem_solving/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/mailesrsm/Java_problem_solving/tree/master/1748-sum-of-unique-elements) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/mailesrsm/Java_problem_solving/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/mailesrsm/Java_problem_solving/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mailesrsm/Java_problem_solving/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mailesrsm/Java_problem_solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mailesrsm/Java_problem_solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mailesrsm/Java_problem_solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mailesrsm/Java_problem_solving/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Enumeration
 |  |
@@ -351,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mailesrsm/Java_problem_solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mailesrsm/Java_problem_solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Z Algorithm
 |  |
