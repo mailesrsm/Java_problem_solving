@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/mailesrsm/Java_problem_solving/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mailesrsm/Java_problem_solving/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/mailesrsm/Java_problem_solving/tree/master/3516-find-closest-person) |
+| [3525-find-x-value-of-array-ii](https://github.com/mailesrsm/Java_problem_solving/tree/master/3525-find-x-value-of-array-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/mailesrsm/Java_problem_solving/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mailesrsm/Java_problem_solving/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mailesrsm/Java_problem_solving/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3467-transform-array-by-parity](https://github.com/mailesrsm/Java_problem_solving/tree/master/3467-transform-array-by-parity) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mailesrsm/Java_problem_solving/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mailesrsm/Java_problem_solving/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3525-find-x-value-of-array-ii](https://github.com/mailesrsm/Java_problem_solving/tree/master/3525-find-x-value-of-array-ii) |
 | [3668-restore-finishing-order](https://github.com/mailesrsm/Java_problem_solving/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/mailesrsm/Java_problem_solving/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mailesrsm/Java_problem_solving/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -380,4 +382,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mailesrsm/Java_problem_solving/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/mailesrsm/Java_problem_solving/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
