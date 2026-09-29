@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/mailesrsm/Java_problem_solving/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mailesrsm/Java_problem_solving/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/mailesrsm/Java_problem_solving/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mailesrsm/Java_problem_solving/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/mailesrsm/Java_problem_solving/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mailesrsm/Java_problem_solving/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/mailesrsm/Java_problem_solving/tree/master/2553-separate-the-digits-in-an-array) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/mailesrsm/Java_problem_solving/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1572-matrix-diagonal-sum](https://github.com/mailesrsm/Java_problem_solving/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/mailesrsm/Java_problem_solving/tree/master/1672-richest-customer-wealth) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mailesrsm/Java_problem_solving/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Database
 |  |
 | ------- |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mailesrsm/Java_problem_solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mailesrsm/Java_problem_solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mailesrsm/Java_problem_solving/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mailesrsm/Java_problem_solving/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Enumeration
 |  |
 | ------- |
@@ -401,4 +404,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mailesrsm/Java_problem_solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mailesrsm/Java_problem_solving/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
