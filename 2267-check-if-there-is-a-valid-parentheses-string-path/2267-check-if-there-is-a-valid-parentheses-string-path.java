@@ -1,12 +1,11 @@
 class Solution {
-    public boolean hasValidPath(char[][] grid) {
-        int m = grid.length;
-        int n = grid[0].length;
+    public boolean hasValidPath(char[][] g) {
+        int m = g.length;
+        int n = g[0].length;
         int len = m + n - 1;
 
-        if ((len & 1) == 1) return false;
-        if (grid[0][0] == ')') return false;
-        if (grid[m - 1][n - 1] == '(') return false;
+        if ((len & 1) == 1 || g[0][0] == ')' || g[m - 1][n - 1] == '(')
+            return false;
 
         int w = (len >> 6) + 1;
         long[] dp = new long[m * n * w];
@@ -31,7 +30,7 @@ class Solution {
                     dp[cur + k] = x;
                 }
 
-                if (grid[i][j] == '(') {
+                if (g[i][j] == '(') {
                     for (int k = w - 1; k >= 0; k--) {
                         long x = dp[cur + k] << 1;
 
