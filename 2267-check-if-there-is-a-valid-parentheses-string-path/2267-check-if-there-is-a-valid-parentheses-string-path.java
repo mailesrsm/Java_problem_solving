@@ -2,42 +2,57 @@ class Solution {
     public boolean hasValidPath(char[][] grid) {
         int m = grid.length;
         int n = grid[0].length;
-
         int len = m + n - 1;
 
-        if (len % 2 == 1) return false;
-
-        boolean[][][] dp = new boolean[m][n][len + 1];
-
+        if ((len & 1) == 1) return false;
         if (grid[0][0] == ')') return false;
+        if (grid[m - 1][n - 1] == '(') return false;
 
-        dp[0][0][1] = true;
+        int w = (len >> 6) + 1;
+        long[] dp = new long[m * n * w];
+
+        dp[0] = 2L;
 
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
-
                 if (i == 0 && j == 0) continue;
 
-                for (int b = 0; b <= len; b++) {
+                int cur = (i * n + j) * w;
 
-                    int newBalance;
+                for (int k = 0; k < w; k++) {
+                    long x = 0;
 
-                    if (grid[i][j] == '(')
-                        newBalance = b + 1;
-                    else
-                        newBalance = b - 1;
+                    if (i > 0)
+                        x |= dp[cur - n * w + k];
 
-                    if (newBalance < 0) continue;
+                    if (j > 0)
+                        x |= dp[cur - w + k];
 
-                    if (i > 0 && dp[i - 1][j][b])
-                        dp[i][j][newBalance] = true;
+                    dp[cur + k] = x;
+                }
 
-                    if (j > 0 && dp[i][j - 1][b])
-                        dp[i][j][newBalance] = true;
+                if (grid[i][j] == '(') {
+                    for (int k = w - 1; k >= 0; k--) {
+                        long x = dp[cur + k] << 1;
+
+                        if (k > 0)
+                            x |= dp[cur + k - 1] >>> 63;
+
+                        dp[cur + k] = x;
+                    }
+                } else {
+                    for (int k = 0; k < w; k++) {
+                        long x = dp[cur + k] >>> 1;
+
+                        if (k + 1 < w)
+                            x |= dp[cur + k + 1] << 63;
+
+                        dp[cur + k] = x;
+                    }
                 }
             }
         }
 
-        return dp[m - 1][n - 1][0];
+        return (dp[(m * n - 1) * w] & 1L) != 0;
     }
 }
